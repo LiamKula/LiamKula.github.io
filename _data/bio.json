@@ -9,27 +9,24 @@
     "summary": "I am an undergrad student at the University of Hawaii at Manoa studying Computer Science. In my free time I like to surf and create video games.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "LiamKula", "url": "https://github.com/LiamKula" },
+      { "network": "linkedin", "username": "liamva", "url": "https://www.linkedin.com/in/liamva/" },
+      { "network": "instagram", "username": "kulavanasperen", "url": "https://www.instagram.com/kulavanasperen/" }
+      { "network": "itch.io", "username": "skelefrog", "url": "https://skelefrog.itch.io/" }
     ]
   },
   "interests": [
     { "name": "Video Game Development" },
     { "name": "Artifical Intelligence" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C#", "Java", "Javascript", "Python", "Unreal Engine Blueprints Visual Scripting" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Ubuntu", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -41,6 +38,11 @@
       "endDate": "Present",
       "courses": [
       ]
+    }
+    {
+      "institution": "Waialua High School, Waialua, HI",
+      "startDate": "2016-08",
+      "endDate": "2020-05",
     }
   ],
   "work": [
