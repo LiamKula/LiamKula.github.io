@@ -2,11 +2,11 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "Unreal Engine Indie Game"
+date: 2023
 published: true
 labels:
-  - Lisp
+  - Unreal Engine 5
   - GitHub
 summary: "A text adventure game that I developed for ICS 313."
 ---
