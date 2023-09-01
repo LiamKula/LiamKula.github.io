@@ -21,10 +21,8 @@ Here is a link to a video trailer of the game: [Twig Trailer](https://www.youtub
 
 Here are screen-shots from the game:
 
-<div class="text-center p-4">
 <img class="img-fluid" src="../img/Screenshot1.png">
 <img class="img-fluid" src="../img/Screenshot2.png">
-</div>
 
 <hr>
 
