@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/TwigIcon.png
 title: "Unreal Engine Indie Game"
 date: 2023
 published: true
