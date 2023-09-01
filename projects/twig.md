@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/TwigIcon.png
-title: "Unreal Engine Indie Game"
+title: "Twig's Quest"
 date: 2022
 published: true
 labels:
