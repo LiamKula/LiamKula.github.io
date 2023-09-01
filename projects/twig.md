@@ -15,9 +15,10 @@ summary: "A third-person FPS action game where you play as a wooden robot powere
 
 <img class="img-fluid" src="../img/TwigBanner.png">
 
-In this third-person FPS action game, you explore a small island as Twig trying to figure out were a large source of polution is harming the life of his home
+<h2 id="introduction">Introduction:</h2>
+In this third-person FPS action game, you explore a small island as Twig trying to figure out were a large source of polution is harming the life of his home.
 
-I developed this game with three other people, my role was programming, music direction, and cutscene direction. It was a lot of fun, and this project took a lot of work. 
+Twig's Quest or Twig is a small indie game developed for MULT 3651 (Game Design) as part of a final project at HPU (Hawai'i Pacific University). The game was built in Unity for about a month and finished in May 2022. I developed this game with three other people, with my role being the programmer, choosing music, and cutscene direction. It was a lot of fun, and this project took a lot of work. 
 
 Here is a link to a video trailer of the game: [Twig Trailer](https://www.youtube.com/watch?v=sulj7yxplEQ)
 
