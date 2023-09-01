@@ -24,5 +24,5 @@ Here are screen-shots from the game:
 <img class="img-fluid" src="../img/Screenshot1.png">
 <img class="img-fluid" src="../img/Screenshot2.png">
 
-<hr>
+
 
