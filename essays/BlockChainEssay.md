@@ -58,21 +58,25 @@ Hawaiian renewable energy can advance the development of crypto and blockchain. 
 What is blocking blockchain? Hawaii's restrictive laws disincentivize the opportunity to provide for what should be an economic right. Residents should have the accessibility to trade advantageously as other states do. So what's stopping us?
 
 Works Cited
+
 Branco, Patrick. Personal interview. 15 April ‎2021.
+
 P. Schmidt, Jeffrey. Personal interview. 14 April ‎2021.
-Daysog, Rick. “She Thought She Was Investing Her Savings. She Was Really Handing It over to 
-a Thief.” https://www.hawaiinewsnow.com, Hawaii News Now, 20 Dec. 2019. Web. 
-2019 State of Hawaii Data Book, State of Hawaii Department of Business, Economic 
-Development & Tourism Research & Economic Analysis, Sept. 2020. Online Database. 
+
+Daysog, Rick. “She Thought She Was Investing Her Savings. She Was Really Handing It over to a Thief.” https://www.hawaiinewsnow.com, Hawaii News Now, 20 Dec. 2019. Web.
+
+2019 State of Hawaii Data Book, State of Hawaii Department of Business, Economic Development & Tourism Research & Economic Analysis, Sept. 2020. Online Database. 
+
 Hawai‘i Visitor Statistics Released for July 2019, ehawaii.gov, 29 Aug. 2019. Online Database 
+
 Hawai‘i Visitor Statistics Released for February 2021, ehawaii.gov, 25 Mar. 2021. Online Database 
-Hobbs, Jill E. “The Covid-19 Pandemic and Meat Supply Chains.” Meat Science, 108459, 11 
-Feb. 2021. Print.
-Salmi, Haitham Al. “Blockchain in Post-Trade: Blocked by Regulations and Legal Challenges.” 
-Journal of Securities Operations & Custody, vol. 12, no. 1, 2019. Print.
+
+Hobbs, Jill E. “The Covid-19 Pandemic and Meat Supply Chains.” Meat Science, 108459, 11 Feb. 2021. Print.
+
+Salmi, Haitham Al. “Blockchain in Post-Trade: Blocked by Regulations and Legal Challenges.” Journal of Securities Operations & Custody, vol. 12, no. 1, 2019. Print.
+
 Hawaii State Energy Office, n.d., pp. 1–46, Hawaii Energy Facts & Figures. Print.
-Zhang, Rong, and Wai Kin Chan. “Evaluation of Energy Consumption in Block-Chains with 
-Proof of Work and Proof of Stake.” Journal of Physics: Conference Series, vol. 1584, 
-2020. 
+
+Zhang, Rong, and Wai Kin Chan. “Evaluation of Energy Consumption in Block-Chains with Proof of Work and Proof of Stake.” Journal of Physics: Conference Series, vol. 1584, 2020. 
 
 
