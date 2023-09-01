@@ -17,10 +17,11 @@ Cotton is a horror-style text-based adventure game I developed using the functio
 
 In this third-person FPS action game, you explore a small island as Twig trying to figure out were a large source of polution is harming the life of his home
 
-Here are some screen shots from the game:
-<img class="img-fluid" src="../img/TwigBanner.png">
-<img class="img-fluid" src="../img/TwigBanner.png">
-<img class="img-fluid" src="../img/TwigBanner.png">
+Here is a link to a video trailer of the game: [Twig Trailer](https://www.youtube.com/watch?v=sulj7yxplEQ)
+
+Here are screen-shots from the game:
+<img class="img-fluid" src="../img/Screenshot1.png">
+<img class="img-fluid" src="../img/Screenshot2.png">
 <hr>
 
 <pre>
