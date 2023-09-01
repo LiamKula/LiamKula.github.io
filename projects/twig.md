@@ -17,7 +17,11 @@ summary: "A third-person FPS action game where you play as a wooden robot powere
 
 In this third-person FPS action game, you explore a small island as Twig trying to figure out were a large source of polution is harming the life of his home
 
+I developed this game with three other people, my role was programming, music direction, and cutscene direction. It was a lot of fun, and this project took a lot of work. 
+
 Here is a link to a video trailer of the game: [Twig Trailer](https://www.youtube.com/watch?v=sulj7yxplEQ)
+
+(WINDOWS ONLY) Download Link to the game: [Link](https://skelefrog.itch.io/twigs-quest) 
 
 Here are screen-shots from the game:
 
