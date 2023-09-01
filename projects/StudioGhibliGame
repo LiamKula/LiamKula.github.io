@@ -1,12 +1,12 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/UnrealLogo.jpg
 title: "Indie Action Adventure Game in Development"
 date: 2023
 published: true
 labels:
-  - Lisp
+  - Unreal Engine 5
   - GitHub
 summary: "An action adventure game in Unreal Engine 5 that is currently in development"
 ---
