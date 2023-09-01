@@ -8,14 +8,16 @@ published: true
 labels:
   - Unreal Engine 5
   - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+summary: "A third-person FPS action game where you play as a wooden robot powered by a mysterious crystal called Twig"
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
-To give you a flavor of the game, here is an excerpt from one run:
+In this third-person FPS action game, you explore a small island as Twig trying to figure out were a large source of polution is harming the life of his home
+
+Here are some screen shots from the game:
 
 <hr>
 
