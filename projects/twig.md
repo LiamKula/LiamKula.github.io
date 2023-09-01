@@ -11,14 +11,16 @@ labels:
 summary: "A third-person FPS action game where you play as a wooden robot powered by a mysterious crystal called Twig"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/TwigBanner.png">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
 In this third-person FPS action game, you explore a small island as Twig trying to figure out were a large source of polution is harming the life of his home
 
 Here are some screen shots from the game:
-
+<img class="img-fluid" src="../img/TwigBanner.png">
+<img class="img-fluid" src="../img/TwigBanner.png">
+<img class="img-fluid" src="../img/TwigBanner.png">
 <hr>
 
 <pre>
