@@ -104,43 +104,58 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Hearts for Animals",
+      "website": "https://heartsforanimals.org/",
+      "position": "Volunteer",
+      "startDate": "2016",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        ""
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Beach Clean-ups",
+      "startDate": "2016",
+      "endDate": "2018",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Cyberpatriot Hawaii State Open 2nd Place Silver",
+      "date": "2017",
+      "awarder": "AFA",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Cyberpatriot Hawaii State Open 1st Place Silver",
+      "date": "2018",
+      "awarder": "AFA",
+      "summary": ""
+    },
+    {
+      "title": "Cyberpatriot Hawaii State Open 1nd Place Silver",
+      "date": "2019",
+      "awarder": "AFA",
+      "summary": ""
+    },
+    {
+      "title": "Award for Outstanding Achievement PAAC",
+      "date": "2018",
+      "awarder": "PAAC",
+      "summary": "PAAC Service as Secretary of PAAC"
+    },
+     {
+      "title": "Central District History Day Fair Award",
+      "date": "2018",
+      "awarder": "Hawaii Council for the Humanities",
+      "summary": "Certificate of Achievement"
     }
   ],
   "references": [
