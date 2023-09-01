@@ -20,9 +20,9 @@ So far the game's player movement and other systems are finished. Currently the 
 The games art will be heavily inspired by games like The Legend of Zelda: Breath of the Wild, and Tears of the Kingdom as well as works from Studio Ghibli like Howl's Moving Moving Castle and Princess Mononoke. We hope to finish this project and make it a great game!
 
 <h2 id="introduction">Screenshots:</h2>
-<h1 id="introduction">Some ruins from an ancient civilization....</h1>
+<h3 id="introduction">Some ruins from an ancient civilization....</h3>
 <img class="img-fluid" src="../img/HighresScreenshot00000.png">
-<h1 id="introduction">Another angle looking at the player prototype model.</h1>
+<h3 id="introduction">Another angle looking at the player prototype model.</h3>
 <img class="img-fluid" src="../img/ScreenShot00001.png">
 
 
