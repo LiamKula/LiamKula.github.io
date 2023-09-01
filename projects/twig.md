@@ -23,8 +23,6 @@ Here is a link to a video trailer of the game: [Twig Trailer](https://www.youtub
 
 <iframe frameborder="0" src="https://itch.io/embed/2243981" width="552" height="167"><a href="https://skelefrog.itch.io/twigs-quest">Twig's Quest by skelefrog</a></iframe>
 
-(WINDOWS ONLY) Download Link to the game: [Link](https://skelefrog.itch.io/twigs-quest) 
-
 Here are screen-shots from the game:
 
 <img class="img-fluid" src="../img/Screenshot1.png">
