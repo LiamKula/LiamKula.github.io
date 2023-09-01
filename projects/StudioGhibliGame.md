@@ -13,8 +13,10 @@ summary: "An action adventure game in Unreal Engine 5 that is currently in devel
 
 Here are some screenshots from a play test:
 
-<img class="img-fluid" src="../img/RougelikeScreenshot1.png">
+<img class="img-fluid" src="../img/HighresScreenshot00000.png">
+Some ruins from an ancient civilization....
 
 <img class="img-fluid" src="../img/RougelikeScreenshot2.png">
+Another angle looking at the player prototype model.
 
 
