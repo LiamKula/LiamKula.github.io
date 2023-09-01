@@ -6,10 +6,12 @@ title: "Twig's Quest"
 date: 2022
 published: true
 labels:
-  - Unreal Engine 5
+  - Unity
+  - C#
   - GitHub
 summary: "A third-person FPS action game where you play as a wooden robot powered by a mysterious crystal called Twig"
 ---
+
 
 <img class="img-fluid" src="../img/TwigBanner.png">
 
@@ -18,7 +20,10 @@ In this third-person FPS action game, you explore a small island as Twig trying 
 Here is a link to a video trailer of the game: [Twig Trailer](https://www.youtube.com/watch?v=sulj7yxplEQ)
 
 Here are screen-shots from the game:
+
 <img class="img-fluid" src="../img/Screenshot1.png">
+
 <img class="img-fluid" src="../img/Screenshot2.png">
+
 <hr>
 
