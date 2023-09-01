@@ -15,8 +15,8 @@ Here are some screenshots of the development so far:
 <hr>
 
 <pre>
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/RougelikeScreenshot1.png">
+<img class="img-fluid" src="../img/RougelikeScreenshot2.png">
 </pre>
 
 <hr>
