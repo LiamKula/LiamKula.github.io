@@ -7,7 +7,7 @@
     "phone": "808-497-4321",
     "website": "https://liamkula.github.io",
     "summary": "I am an undergrad student at the University of Hawaii at Manoa studying Computer Science. In my free time I like to surf and create video games.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "LiamKula", "url": "https://github.com/LiamKula" },
       { "network": "linkedin", "username": "liamva", "url": "https://www.linkedin.com/in/liamva/" },
@@ -31,37 +31,74 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
       "courses": [
       ]
+    },
+    {
+      "institution": "Hawai'i Pacific University, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2020-08",
+      "endDate": "2022-11",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Waialua High School, Waialua, HI",
+      "area": "",
+      "studyType": "",
+      "startDate": "2016-08",
+      "endDate": "2020-05",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "San Francisco Academy of Arts, San Francisco, CA",
+      "area": "",
+      "studyType": "Online & Onsite Classes",
+      "startDate": "2016",
+      "endDate": "2018",
+      "courses": ["Character Design", "3D Modeling", "Music Production", "Game Development", "Visual Development"]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "PCfiveO",
+      "position": "I.T. Specialist Internship",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2020-04",
+      "endDate": "2020-07",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assisting in managing multiple computer network sites & securing them",
+        "Information technology consultant for difficult technical problems"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Hawaii Pacific University",
+      "position": "I.T. Technician",
+      "website": "https://www.hpu.edu/its/index.html",
+      "startDate": "2020-08",
+      "endDate": "2020-11",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assisting employees at Hawaii Pacific University with technological issues",
+        "Information technology consultant for difficult technical problems"
+      ]
+    },
+    {
+      "company": "Hawaiian Telecom",
+      "position": "Network Engineering Intern",
+      "website": "https://www.hawaiiantel.com/",
+      "startDate": "2021-09",
+      "endDate": "2022-01",
+      "summary": "",
+      "highlights": [
+        "Collaborated with fellow Hawaiian Telecom employees to strategize and design optimal fiber routes for the Island of Kauai"
       ]
     }
   ],
