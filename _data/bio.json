@@ -33,7 +33,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -67,15 +67,14 @@
   ],
   "work": [
     {
-      "company": "PCfiveO",
-      "position": "I.T. Specialist Internship",
-      "website": "",
-      "startDate": "2020-04",
-      "endDate": "2020-07",
+      "company": "Hawaiian Telecom",
+      "position": "Network Engineering Intern",
+      "website": "https://www.hawaiiantel.com/",
+      "startDate": "2021-09",
+      "endDate": "2022-01",
       "summary": "",
       "highlights": [
-        "Assisting in managing multiple computer network sites & securing them",
-        "Information technology consultant for difficult technical problems"
+        "Collaborated with fellow Hawaiian Telecom employees to strategize and design optimal fiber routes for the Island of Kauai"
       ]
     },
     {
@@ -91,21 +90,22 @@
       ]
     },
     {
-      "company": "Hawaiian Telecom",
-      "position": "Network Engineering Intern",
-      "website": "https://www.hawaiiantel.com/",
-      "startDate": "2021-09",
-      "endDate": "2022-01",
+      "company": "PCfiveO",
+      "position": "I.T. Specialist Internship",
+      "website": "",
+      "startDate": "2020-04",
+      "endDate": "2020-07",
       "summary": "",
       "highlights": [
-        "Collaborated with fellow Hawaiian Telecom employees to strategize and design optimal fiber routes for the Island of Kauai"
+        "Assisting in managing multiple computer network sites & securing them",
+        "Information technology consultant for difficult technical problems"
       ]
     }
   ],
   "awards": [
-    {
-      "title": "Cyberpatriot Hawaii State Open 2nd Place Silver",
-      "date": "2017",
+     {
+      "title": "Cyberpatriot Hawaii State Open 1nd Place Silver",
+      "date": "2019",
       "awarder": "AFA",
       "summary": ""
     },
@@ -132,6 +132,12 @@
       "date": "2018",
       "awarder": "Hawaii Council for the Humanities",
       "summary": "Certificate of Achievement"
+    },
+    {
+      "title": "Cyberpatriot Hawaii State Open 2nd Place Silver",
+      "date": "2017",
+      "awarder": "AFA",
+      "summary": ""
     }
   ],
   "references": [
