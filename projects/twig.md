@@ -25,9 +25,6 @@ Here is a link to a video trailer of the game: [Twig Trailer](https://www.youtub
 
 <iframe frameborder="0" src="https://itch.io/embed/2243981" width="552" height="167"><a href="https://skelefrog.itch.io/twigs-quest">Twig's Quest by skelefrog</a></iframe>
 
-<h2 id="introduction">What I learned:</h2>
-I feel like this project was very important to me, as this is one the first video games 
-
 <h2 id="introduction">Screenshots:</h2>
 
 <img class="img-fluid" src="../img/Screenshot1.png">
