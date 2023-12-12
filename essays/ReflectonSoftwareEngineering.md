@@ -18,8 +18,8 @@ labels:
 <p>The first IDPM or issue driven project management guideline is to meet twice a week to manage a project. When working on a team project, I feel that having meetups can be very helpful for productivity and progress. When I know that I have a team meetup soon, I get all I need to do for my tasks so that if I run into any issues I can talk about it to my team. The same goes for my teammates if they run into an issue. It's always a nice bonding experience because you feel like there's not a lot of time to talk during class so it's easier to build relationships with people.</p>
 <h1> </h1>
 <img style="text-align:center" width="300px" class="rounded float-start pe-4" src="../img/IMG_3093.jpg">
-<em style="text-align:center">Group photo my with team</em>
-<em style="text-align:center">Order of individuals from left to right: Jakapop Khongnawang, Taitusi Camanilotu, Chad Maeshiro, and Liam (Kula) Van Asperen</em>
+<em style="text-align:center"><p>Group photo my with team</p></em>
+<em style="text-align:center"><p>Order of individuals from left to right: Jakapop Khongnawang, Taitusi Camanilotu, Chad Maeshiro, and Liam (Kula) Van Asperen</p></em>
 <h1> </h1>
 <h2>Divide work into 72 hour tasks</h2>
 <p>When starting to work on your team's project there are some tasks that are just difficult and lengthy to complete. 72 hour taks makes task management more breathable as you cannot list the task if you can’t finish it in 72 hours. If it's too big then you have to break it down into even smaller, more manageable chunks. For my team, we made sure to have each other's backs and to always ask if the task is too big. If the issue is too big there is no shame in breaking it down into smaller chunks.</p>
