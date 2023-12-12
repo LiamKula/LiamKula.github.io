@@ -18,7 +18,7 @@ labels:
 <p>The first IDPM or issue driven project management guideline is to meet twice a week to manage a project. When working on a team project, I feel that having meetups can be very helpful for productivity and progress. When I know that I have a team meetup soon, I get all I need to do for my tasks so that if I run into any issues I can talk about it to my team. The same goes for my teammates if they run into an issue. It's always a nice bonding experience because you feel like there's not a lot of time to talk during class so it's easier to build relationships with people.</p>
 
 <div class="text-center p-4>
-  <img width="300px" class="rounded float-start pe-4 center" src="../img/IMG_3093.jpg">
+  <img width="500px" class="rounded float-start pe-4 center" src="../img/IMG_3093.jpg">
 <p>Group photo my with team</p>
 <p>Order of individuals from left to right: Jakapop Khongnawang, Taitusi Camanilotu, Chad Maeshiro, and Liam (Kula) Van Asperen</p>
 </div>
