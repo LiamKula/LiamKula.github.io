@@ -7,7 +7,6 @@ date: 2023
 published: true
 labels:
   - Unreal Engine 5
-  - GitHub
 summary: "An action adventure game in Unreal Engine 5 that is currently in development"
 ---
 <h2 id="introduction">About:</h2>
