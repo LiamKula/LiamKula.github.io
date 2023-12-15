@@ -7,7 +7,6 @@ date: 2022
 published: true
 labels:
   - Unreal Engine 5
-  - GitHub
 summary: "A third-person rougelike indie game I've been working on in my free time."
 ---
 <h2 id="introduction">About:</h2>
