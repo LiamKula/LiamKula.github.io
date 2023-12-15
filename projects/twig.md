@@ -8,7 +8,6 @@ published: true
 labels:
   - Unity
   - C#
-  - GitHub
 summary: "A third-person FPS action game where you play as a wooden robot powered by a mysterious crystal called Twig"
 ---
 
