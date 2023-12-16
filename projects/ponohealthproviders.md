@@ -9,31 +9,27 @@ labels:
   - Javascript
   - CSS
   - Mongo
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "Developed a web application for ICS-314 with my team to help individuals who are un-insured or underinsured find healthcare services."
 ---
 
+<h1>The Project</h1>
+PonoHealthProviders was originally created for the 2023 [Hawai'i Annual Code Challenge HACC](https://hacc.hawaii.gov/), the idea was to create a web app for individuals to find resources for Uninsured/Underinsured people. The app would save users time by aggregating all the information they would need into one place when looking for healthcare. Users may save money when finding less costly solutions. Time may further be saved when a user finds a closer place for a particular service. I personally had a lot of issues when it came to finding healthcare providers in the state of Hawai'i. Having that experience really helped me understand what I wanted to add to an application like this. 
+
+
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/PonohealthprovidersImage2.png" class="img-thumbnail" >
+  <img width="200px" src="../img/PonohealthprovidersImage3.png" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+<h1>What I contributed</h1>
+At the start of our registration for the project, we needed a team leader to participate so I took the position. I made sure we were kept on track, met deadlines, setting up meetings, and so on. I helped choose the visual color paluatte, created the filter feature with help from some teammates, and added a way to upload profile photos for the users. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+<div class="text-center p-4">
+  <img width="200px" src="../img/PonohealthprovidersImage2.png" class="img-thumbnail" >
+  <img width="200px" src="../img/PonohealthprovidersImage3.png" class="img-thumbnail" >
+</div>
 
-Here is some code that illustrates how we read values from the line sensors:
+<h1>What I learned</h1>
+I learned a lot from this project esspically about project management. I found issue driven project management guidelines very effective for not only my team but myself as well. I feel that having these guidelines in my earlier stages of my project management habits will be greatly beneficial in the long run. I can definitely tell now that I was developing some bad habits that could have hurt my productivity that I normally wouldn’t have seen.
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can learn more on the [PonoHealthProviders Website](https://ponohealthproviders.com/home).
