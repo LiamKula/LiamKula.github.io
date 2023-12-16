@@ -17,16 +17,15 @@ PonoHealthProviders was originally created for the 2023 [Hawai'i Annual Code Cha
 
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/PonohealthprovidersImage2.png" class="img-thumbnail" >
-  <img width="200px" src="../img/PonohealthprovidersImage3.png" class="img-thumbnail" >
+  <img width="800px" src="../img/PonohealthprovidersImage1.png" class="img-thumbnail" >
 </div>
 
 <h1>What I contributed</h1>
 At the start of our registration for the project, we needed a team leader to participate so I took the position. I made sure we were kept on track, met deadlines, setting up meetings, and so on. I helped choose the visual color paluatte, created the filter feature with help from some teammates, and added a way to upload profile photos for the users. 
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/PonohealthprovidersImage2.png" class="img-thumbnail" >
-  <img width="200px" src="../img/PonohealthprovidersImage3.png" class="img-thumbnail" >
+  <img width="800px" src="../img/PonohealthprovidersImage2.png" class="img-thumbnail" >
+  <img width="800px" src="../img/PonohealthprovidersImage3.png" class="img-thumbnail" >
 </div>
 
 <h1>What I learned</h1>
