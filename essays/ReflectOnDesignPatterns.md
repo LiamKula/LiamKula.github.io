@@ -5,6 +5,7 @@ title: "Reflect on Design Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-30
 published: false
+draft: true
 labels:
   - Software Engineering
   - Design Patterns
