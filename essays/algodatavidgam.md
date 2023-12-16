@@ -43,9 +43,13 @@ labels:
 
 <h2>Works Cited</h2>
 Entity Interpolation - Gabriel Gambetta. (n.d.). https://www.gabrielgambetta.com/entity-interpolation.html
+
 Wikipedia contributors. (2023, October 11). Interpolation. In Wikipedia, The Free Encyclopedia. Retrieved 08:34, December 14, 2023, from https://en.wikipedia.org/w/index.php?title=Interpolation&oldid=1179622966
+
 Randall, H. (2023, November 30). Baldur’s Gate 3 colossal new patch adds a playable epilogue set six months after the game ends with 3,589 new lines of&hellip; Pcgamer. https://www.pcgamer.com/baldurs-gate-3-colossal-new-patch-adds-a-playable-epilogue-set-six-months-after-the-game-ends-with-3589-new-lines-of-dialogue-two-new-difficulty-modes-and-im-running-out-of-headline-space/
+
 Rafiq, A., Abdul Kadir, T. A., & Ihsan, S. N. (2020). Pathfinding algorithms in game development. IOP Conference Series: Materials Science and Engineering, 769, 012021. IOP Publishing. https://doi.org/10.1088/1757-899X/769/1/012021
+
 Lawande, S. R., Jasmine, G., Anbarasi, L. J., & Izhar, L. I. (2022, May 28). A Systematic Review and Analysis of Intelligence-Based Pathfinding Algorithms in the Field of Video Games. Applied Sciences. https://doi.org/10.3390/app12115499
 
 
