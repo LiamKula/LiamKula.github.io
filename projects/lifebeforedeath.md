@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/TwigIcon.png
-title: "Twig's Quest"
-date: 2022
+title: "Life Before Death"
+date: 2024
 published: true
 labels:
-  - Unity
-  - C#
-summary: "A third-person FPS action game where you play as a wooden robot powered by a mysterious crystal called Twig"
+  - Unreal Engine
+  - Perforce
+summary: "A first person puzzle mystery game where you play as John who is lost on a subway train system trying to find his daughter"
 ---
 
 
