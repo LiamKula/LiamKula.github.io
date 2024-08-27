@@ -4,7 +4,7 @@ type: project
 image: img/lbdLogo.png
 title: "Life Before Death"
 date: 2024
-published: false
+published: true
 labels:
   - Unreal Engine
   - Perforce
