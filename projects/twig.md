@@ -26,12 +26,8 @@ Here is a link to a video trailer of the game: [Twig Trailer](https://www.youtub
 
 <h2 id="introduction">Screenshots:</h2>
 
-<img class="img-fluid" src="../img/HighresScreenshot00004.png">
-<img class="img-fluid" src="../img/HighresScreenshot00005.png">
-<img class="img-fluid" src="../img/HighresScreenshot00000.png">
-<img class="img-fluid" src="../img/HighresScreenshot00001.png">
-<img class="img-fluid" src="../img/HighresScreenshot00002.png">
-<img class="img-fluid" src="../img/HighresScreenshot00003.png">
+<img class="img-fluid" src="../img/Screenshot1.png">
+<img class="img-fluid" src="../img/Screenshot2.png">
 
 
 
