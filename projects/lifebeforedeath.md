@@ -33,13 +33,13 @@ The way that this was done was by making an Unreal Engine Blueprint that the pla
 
 
 
-
-<iframe frameborder="0" src="https://itch.io/embed/2243981" width="552" height="167"><a href="https://skelefrog.itch.io/twigs-quest">Twig's Quest by skelefrog</a></iframe>
-
-<h2 id="introduction">Screenshots:</h2>
-
-<img class="img-fluid" src="../img/Screenshot1.png">
-<img class="img-fluid" src="../img/Screenshot2.png">
+<h2>Screenshots:</h2>
+<img class="img-fluid" src="../img/HighresScreenshot00004.png">
+<img class="img-fluid" src="../img/HighresScreenshot00005.png">
+<img class="img-fluid" src="../img/HighresScreenshot00000.png">
+<img class="img-fluid" src="../img/HighresScreenshot00001.png">
+<img class="img-fluid" src="../img/HighresScreenshot00002.png">
+<img class="img-fluid" src="../img/HighresScreenshot00003.png">
 
 
 
