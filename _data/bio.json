@@ -1,0 +1,147 @@
+{
+  "basics": {
+    "name": "Liam (Kula) Van Asperen",
+    "label": "Student",
+    "picture": "https://github.com/LiamKula.png",
+    "email": "liamva@hawaii.edu",
+    "phone": "808-497-4321",
+    "website": "https://liamkula.github.io",
+    "summary": "I am an undergrad student at the University of Hawaii at Manoa studying Computer Science. In my free time I like to surf and create video games.",
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "LiamKula", "url": "https://github.com/LiamKula" },
+      { "network": "linkedin", "username": "liamva", "url": "https://www.linkedin.com/in/liamva/" },
+    ]
+  },
+  "interests": [
+    { "name": "Video Game Development" },
+    { "name": "Artifical Intelligence" },
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C#", "Java", "Javascript", "Unreal Engine Blueprints Visual Scripting" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Ubuntu", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2022-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Hawai'i Pacific University, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2020-08",
+      "endDate": "2022-11",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Waialua High School, Waialua, HI",
+      "area": "",
+      "studyType": "",
+      "startDate": "2016-08",
+      "endDate": "2020-05",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "San Francisco Academy of Arts, San Francisco, CA",
+      "area": "",
+      "studyType": "Online & Onsite Classes",
+      "startDate": "2016",
+      "endDate": "2018",
+      "courses": ["Character Design", "3D Modeling", "Music Production", "Game Development", "Visual Development"]
+    }
+  ],
+  "work": [
+    {
+      "company": "Hawaiian Telecom",
+      "position": "Network Engineering Intern",
+      "website": "https://www.hawaiiantel.com/",
+      "startDate": "2021-09",
+      "endDate": "2022-01",
+      "summary": "",
+      "highlights": [
+        "Collaborated with fellow Hawaiian Telecom employees to strategize and design optimal fiber routes for the Island of Kauai"
+      ]
+    },
+    {
+      "company": "Hawaii Pacific University",
+      "position": "I.T. Technician",
+      "website": "https://www.hpu.edu/its/index.html",
+      "startDate": "2020-08",
+      "endDate": "2020-11",
+      "summary": "",
+      "highlights": [
+        "Assisting employees at Hawaii Pacific University with technological issues",
+        "Information technology consultant for difficult technical problems"
+      ]
+    },
+    {
+      "company": "PCfiveO",
+      "position": "I.T. Specialist Internship",
+      "website": "",
+      "startDate": "2020-04",
+      "endDate": "2020-07",
+      "summary": "",
+      "highlights": [
+        "Assisting in managing multiple computer network sites & securing them",
+        "Information technology consultant for difficult technical problems"
+      ]
+    }
+  ],
+  "awards": [
+     {
+      "title": "Cyberpatriot Hawaii State Open 2nd Place Silver",
+      "date": "2019",
+      "awarder": "AFA",
+      "summary": ""
+    },
+    {
+      "title": "Cyberpatriot Hawaii State Open 1st Place Silver",
+      "date": "2018",
+      "awarder": "AFA",
+      "summary": ""
+    },
+    {
+      "title": "Cyberpatriot Hawaii State Open 2nd Place Silver",
+      "date": "2019",
+      "awarder": "AFA",
+      "summary": ""
+    },
+    {
+      "title": "Award for Outstanding Achievement PAAC",
+      "date": "2018",
+      "awarder": "PAAC",
+      "summary": "PAAC Service as Secretary of PAAC"
+    },
+     {
+      "title": "Central District History Day Fair Award",
+      "date": "2018",
+      "awarder": "Hawaii Council for the Humanities",
+      "summary": "Certificate of Achievement"
+    },
+    {
+      "title": "Cyberpatriot Hawaii State Open 2nd Place Silver",
+      "date": "2017",
+      "awarder": "AFA",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
