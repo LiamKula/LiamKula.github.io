@@ -18,10 +18,12 @@ summary: "A first person puzzle mystery game where you play as John who is lost 
 Life Before Death is a first person puzzle mystery game where you play as John who abords a subway train heading somewhere, but he can't seem to remember. All he remembers is he was on the train with his daughter Vivian going somewhere. When playing as John you can interact with different objects in the enviornment and solve puzzles to find the answers your looking for.
 <br></br>
 <img class="img-fluid" src="../img/DevelopmentOfLBD_Banner.png">
-<h2 id="introduction">Development of Twig:</h2>
-Twig's Quest or Twig is a small indie game developed for MULT 3651 (Game Design) as part of a final project at HPU (Hawai'i Pacific University). The game was built in Unity for about a month and finished in May 2022. I developed this game with three other people, with my role being the programmer, choosing music, and cutscene direction. It was a lot of fun, and this project took a lot of work. For MULT 3651 before we worked on Twig, each student worked on three of their own projects throughout the class. This experience was extremely helpful when collaborating on Twig so we could make the game we wanted.  
+<h2 id="introduction">Development of Life Before Death:</h2>
+Life Before Death is a Video Game Development project that was created for ICS-485 at the University of Hawai'i at Manoa (Video Game Design and Development Class) for Spring 2024. Development of Life Before Death started February 18, 2024 and is still currently in development. The current development team consists of Liam (Kula) Van Asperen, Kevin Clarkin, and Benjamin Crawford. For assignment for the class project was a to make a full playable video game by the end of the semester with a team consisting of students from the class. Before Life Before Death became a first person puzzle mystery game, there were many different ideas from the team on what the group game development project should be. There were ideas from a cyborg ninja running on clouds to stop a mega corporation from taking over the world to a game where you journey down into the depths of a ancient alien castle buried beneith the earth. Although each of the team members liked all of the ideas presented to each other, the idea to go for something more managaable in scale made more sense due to the 2 month deadline. Ben Crawford suggested the horror game route to the team with a scary subway train game demo he had made with Unreal Engine 5 and since the consensus was to use Unreal Engine 5 as the game engine of choice for the team, it made sense to go this route.  
+<br></br>
+<img class="img-fluid" src="../img/DevelopmentOfLBD_Banner.png">
+<h2 id="introduction">My Contributions to Life Before Death:</h2>
 
-Here is a link to a video trailer of the game: [Twig Trailer](https://www.youtube.com/watch?v=sulj7yxplEQ)
 
 <iframe frameborder="0" src="https://itch.io/embed/2243981" width="552" height="167"><a href="https://skelefrog.itch.io/twigs-quest">Twig's Quest by skelefrog</a></iframe>
 
