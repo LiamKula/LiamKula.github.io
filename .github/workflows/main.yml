@@ -13,21 +13,11 @@ jobs:
       - name: Check out the repository
         uses: actions/checkout@v2
 
-      - name: Cache Ruby gems
-        uses: actions/cache@v2
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
-
-      - name: Upgrade RubyGems
-        run: |
-          gem update --system 3.3.22
-
-      - name: Install Bundler
-        run: |
-          gem install bundler
+          ruby-version: '3.1' # Specify the Ruby version you want to use
+          bundler-cache: true  # Automatically cache installed gems
 
       - name: Validate JSON files
         uses: limitusus/json-syntax-check@v1
