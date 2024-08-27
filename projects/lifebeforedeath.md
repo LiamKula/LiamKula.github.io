@@ -36,7 +36,7 @@ The way that this was done was by making an Unreal Engine Blueprint that the pla
 <h2>Screenshots:</h2>
 <img class="img-fluid" src="../img/HighresScreenshot00004.png">
 <img class="img-fluid" src="../img/HighresScreenshot00005.png">
-<img class="img-fluid" src="../img/HighresScreenshot00000.png">
+<img class="img-fluid" src="../img/HighresScreenshot00990.png">
 <img class="img-fluid" src="../img/HighresScreenshot00001.png">
 <img class="img-fluid" src="../img/HighresScreenshot00002.png">
 <img class="img-fluid" src="../img/HighresScreenshot00003.png">
