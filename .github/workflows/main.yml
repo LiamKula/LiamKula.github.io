@@ -27,7 +27,7 @@ jobs:
           pattern: "\\bio.json$"
 
       - name: Build and Deploy Jekyll Site
-        uses: helaili/jekyll-action@v3 # Updated to the latest version
+        uses: helaili/jekyll-action@2.5.0  # Latest available version
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: 'gh-pages'
