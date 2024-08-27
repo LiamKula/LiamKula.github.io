@@ -21,13 +21,21 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
+      - name: Upgrade RubyGems
+        run: |
+          gem update --system 3.3.22
+
+      - name: Install Bundler
+        run: |
+          gem install bundler
+
       - name: Validate JSON files
         uses: limitusus/json-syntax-check@v1
         with:
           pattern: "\\bio.json$"
 
       - name: Build and Deploy Jekyll Site
-        uses: helaili/jekyll-action@2.5.0  # Latest available version
+        uses: helaili/jekyll-action@2.5.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: 'gh-pages'
