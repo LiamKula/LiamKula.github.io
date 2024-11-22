@@ -17,7 +17,7 @@ summary: "A first person puzzle mystery game where you play as John who is lost 
 <h2 id="introduction">What is Life Before Death:</h2>
 Life Before Death is a first person puzzle mystery game where you play as John who abords a subway train heading somewhere, but he can't seem to remember. All he remembers is that he was on the train with his daughter Vivian, going somewhere. When playing as John you can interact with different objects in the environment and solve puzzles to find the answers you're looking for.
 <br>
-<p style="text-align: center;">https://store.steampowered.com/app/3282650/Life_Before_Death/</p>
+<p style="text-align: center;"><iframe src="https://store.steampowered.com/widget/3282650/" frameborder="0" width="646" height="190"></iframe></p>
 <br>
 <img class="img-fluid" src="../img/DevelopmentOfLBD_Banner.png">
 <h2 id="introduction">Development of Life Before Death:</h2>
