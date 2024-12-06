@@ -4,7 +4,7 @@ type: project
 image: img/lbdLogo.png
 title: "Arcane Hand"
 date: 2024
-published: true
+published: false
 labels:
   - Unity
   - C#
