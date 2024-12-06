@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="The Problem Domain and Spaces of the Algorithms and Data Structures of an Open World Single Player RPG With Multiplayer Functionality | Liam (Kula) Van Asperen | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/LiamKula.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Liam (Kula) Van Asperen | Professional Portfolio">
+    <meta property="og:url" content="https://LiamKula.github.io/essays/algodatavidgam.html">
+    <meta property="og:title" content="The Problem Domain and Spaces of the Algorithms and Data Structures of an Open World Single Player RPG With Multiplayer Functionality | Liam (Kula) Van Asperen | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/LiamKula.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/lime.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>The Problem Domain and Spaces of the Algorithms and Data Structures of an Open World Single Player RPG With Multiplayer Functionality | Liam (Kula) Van Asperen | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Liam (Kula) Van Asperen</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">The Problem Domain and Spaces of the Algorithms and Data Structures of an Open World Single Player RPG With Multiplayer Functionality</h1>
+  <span class="date">12 Dec 2023</span>
+  <hr>
+  <h1>The Problem Domain</h1>
+<h3>The Increasing Complexity of Video Games</h3>
+<p>Modern games are becoming bigger and more complex, and the algorithms and data structures that would go into an open-world single-player role-playing game (RPG) that features multiplayer functionality become increasingly more sophisticated. Video games like Elden Ring from FromSoftware and The Legend of Zelda: Tears of the Kingdom from Nintendo have large sprawling worlds that are very detailed and become evidence of how modern games have become larger and more complex. Baldur's Gate 3 from Larian Studios has massive dialogue trees, with a recent update adding “3,589 new lines of dialogue” (Randall) as Harvey Randall states in a PCGAMER article. As video games become more complex; handling, creating, and designing these large game worlds creates a large rich problem domain. Many problems exist that are encountered in the problem domain of creating a large open-world role-playing game, like non-playable characters and multiplayer connectivity.</p>
+
+<h3>The Problem Domain of Non-Playable Characters</h3>
+<p>In a narrative-driven video game, characters can help captivate and intrigue a player into the narrative or story of their game. NPC’s also known as non-playable characters are an actor or character in the game that interacts with the player. NPCs can be characters, enemies, or even animals, they are entities living in the game world to help breathe life into it. Games like Skyrim from Bethesda Game Studios are known for engaging NPCs with diverse dialogue trees with stories to tell. For example with Skyrim, the player could meet an NPC that needs help taking down a dragon and chooses to follow them and attempt to defeat the dragon NPC. Having NPCs is important to a single-player open-world role-playing game to help make the game world feel alive. Having reliable pathfinding algorithms and the data from navigation meshes helps sell the illusion of the NPC's intelligence. When going on a quest to slay a dragon, the NPC needs reliable path-finding algorithms to find where the dragon is. Additionally, navigation meshes help give information to the NPC to let them know to not start climbing up walls in the dungeon. If the player attacks an enemy NPC in the dungeon, the game needs to keep track of the states of each of the NPCs' behavior. All of these algorithms and data structures make up the problem space of NPCs.</p>
+
+<h3>The Problem Domain of Multiplayer Networking and Synchronization</h3>
+<p>Adding multiplayer capabilities to a game can create a lot of new problems for the development, but it can also create more opportunities for players to enjoy the game. Compared to a single-player game, multiplayer games have more aspects to consider and can therefore create more challenges. One example of this could be a developer wondering what is the most efficient protocol to use. The developers may also need to decide if there is a custom protocol created for better performance. Overall, multiplayer networking can be quite a can of worms depending on if the game was designed around that choice. In the end, multiplayer can be both a blessing and a curse.</p>
+
+<h1>Non-Playable Characters (NPC)</h1>
+<h3>The Problem Space of Non-Playable Characters (NPC)</h3>
+<p>An NPC is an actor or character in a game that interacts with the player. Having reliable path-finding algorithms and navigation data that interact with the player is important. If the player needs to follow an NPC to a specific location and the algorithm controlling the NPC's pathfinding is taking ineffective or illogical routes that could damage the trust between the player and the game. Having reliable pathfinding algorithms like A* and Dijkstras can create reliable pathfinding and in turn, create less frustration for the player and their experience in the game.</p>
+
+<h3>Pathfinding and Navigation</h3>
+<p>Pathfinding and navigation relate to how in games NPCs can go places or follow the player. An example is how enemies find their way to a player when the player is engaged in combat. This ability creates many opportunities to engage the player and gain their interest. Depending on the type of pathfinding, if our player has changed position the game has to account for that. Game developers also have to consider what pathfinding algorithms are both effective and efficient and in the space of pathfinding and, the research by Abdul Rafiq et al. serves as a reference point. In their paper Pathfinding Algorithms in Game Development, their research goes into a review of pathfinding algorithms in game development and each of their respective performances. The algorithms are categorized to be either dynamic or static depending on the target they are finding a path for. The paper describes static pathfinding as finding a path to an object that doesn’t move and dynamic pathfinding finds a path to a target that is moving. Two major algorithms stood out and they were A* and Dijkstras algorithm. According to Wikipedia, A* is a “graph traversal and path search algorithm” (Wikipedia), and Dijkstra's algorithm will find “the shortest paths between nodes in a weighted graph” (Wikipedia). Different engines use different pathfinding algorithms but as an example, the popular game engine Unity uses A* as one of its major pathfinding algorithms. Typically A* will be used in conjunction with Unity’s navigation mesh which is a type of data structure that will determine if areas are traversable with a large polygon mesh.  According to Abdul Rafiq et al. research, the most common pathfinding algorithm used was A* and the least used was Dijkstras. This was due to different factors such as A*’s “flow and logic” and its “heuristic function which allows the algorithm to quickly and accurately estimate a path”(Abdul Rafiq et al., p. 8). Rafiq believes this is why A* is a popular choice among game programmers. Their results showed that the “A* algorithm is faster than Dijkstra for calculating and searching a path” (Abdul Rafiq et al., p. 9), additionally they continue by stating that scientific researchers have improved the A* algorithms to a point where their research concludes that “improving the algorithm results in reduced memory usage” (Abdul Rafiq et al., p. 9). Undoubtedly A* seems to be the prime choice for pathing finding algorithms in game development. When comparing different algorithms, comparing their time complexity can be important to make comparisons. A Systematic Review and Analysis of  Intelligence-Based Pathfinding Algorithms in the Field of Video Games by Sharmad Rajnish Lawande et al. is a research paper that gives an overview of the different time complexities and effectiveness of different pathfinding algorithms in video games. The paper goes very in-depth as to the time and space complexities of many different path-finding algorithms in games. Overall the winners were Greedy Best First Search, A*, and lastly Dijkstras with Dijkstra’s algorithm doing the worst in execution time and surprisingly Greedy Best First Search doing the best. In terms of time complexity and according to the research paper, A* has a time complexity of T(n)=O(bd) and Greedy Best First Search has T(n)=O(bm). For A*, the time it takes to find a solution is equal to B, its branching factor to the power of D its depth. As B or D increases, the time it takes to solve the problem would take a long time which would make it more complex and time-consuming. Additionally, Greedy Best First Search grows equally similarly to its branching factor B to the power of M or the maximum depth of the search. Meaning as well as A*, both algorithms significantly increase their complexity due to either its branching factor or the depth of the search. In short, both of these pathfinding algorithms depend on D and M, and D would be less than M because the depth of the closest goal is typically smaller or equal to the maximum depth of a search space. Therefore A* would still be the most optimal algorithm to use in an open-world single-player role-playing game based on the information from the paper. Besides popularity, A* continuously shows that it can be the most effective algorithm to use in pathfinding in video games.</p>
+
+<h1>Multiplayer Networking and Synchronization</h1>
+<h3>The Problem Space of Multiplayer Networking and Synchronization</h3>
+<p>Reliable networking and communication between computers in an online game is important to the player experience as lag and latency can hinder the performance and experience of a game. Players engaged in PVP or player vs player combat can have the expectation of a smooth game experience but get frustrated by inefficient net code, algorithms, and the data structures chosen. Game developers must choose carefully when choosing the data structures they use when communicating the game state to each connected player, and the proper protocols to make sure that data is sent quickly to reduce latency. Choosing efficient data structures to share and validate the game state with other players can help with performance and keep a consistent low latency. Picking and or creating the necessary protocols for network connectivity can also contribute to a more efficient low-latency experience.</p>
+
+<h3>Game Communication</h3>
+<p>Games can communicate using TCP, UDP, or a custom protocol. TCP is a transport control protocol, and it is a very reliable internet protocol that will always guarantee that the data that is sent from point A will always make it to point B. If the data did not make it, then a request would be sent to let point A know that it is missing information packets and needs some data to be sent again to have all the parts of whatever is being transmitted. On the other hand, UDP or user datagram protocol does not care if all the data is sent or not, all that matters is if the data is sent. UDP exists because TCP always needs all of the data that is sent, but some programs do not always need all of the data like video games. Typically, games will use UDP as they do not usually need all the data, and using TCP would create latency issues. When it comes to users, people playing games will almost always want a fast and responsive experience, and TCP does not offer that typically. If some game data is needed and isn’t consistent then issues could arise. A possible solution is creating a custom protocol to fit the needs of the game. Having a reliable protocol can be important, but sometimes having a faster protocol can give the illusion of smooth connectivity and can benefit the player experience. That illusion of smooth connectivity has to do with interpolation.</p>
+
+<h3>Smooth Game Connectivity</h3>
+<p>Interpolation is typically a mathematical concept, as written from Wikipedia “is a type of estimation” (Wikipedia 1). In games, interpolation can be very beneficial to help create the illusion of smooth multiplayer. When player A and player B are connected over a network and playing a multiplayer game, data packages are sent to communicate to each other what is occurring. If both players are far from each other, lag or latency can occur, which can make the game experience look very choppy or inconsistent. This can be solved using interpolation to help the game communication look less choppy. In an article called Fast-Paced Multiplayer, Gabriel Gambetta gives an example of unstable multiplayer as “players who teleport short distances every 100 ms, making the game unplayable” (Gambetta 5). Interpolation can be added to fix this issue. Gambetta states that the trick is to have “authoritative position data every 100 ms; the trick is how to show the player what happens in between. The key to the solution is to show the other players in the past relative to the user’s player”(Gambetta 5). Writing an algorithm to do this would create the interpolation the game needs to have a smooth game feel.</p>
+
+<h3>Conclusion</h3>
+<p>As games become bigger and more complex, the algorithms and data structures that would go into an open-world single-player role-playing game (RPG) with multiplayer functionality become more important for the games industry. NPCs breathe life into the game world, and having working efficient pathfinding algorithms helps create the illusion of an intelligent character. Adding multiplayer capabilities to a game can create a lot of new problems for the development, but it can also create more opportunities for players to enjoy the game. Compared to a single-player game, multiplayer games have more aspects to consider and can therefore create more challenges. Each factor contributes a significant role in what makes a game an artificially living breathing game world. Different algorithms and data structures can help create amazing game worlds that may be artificial but can have the illusion of a real one.</p>
+
+<h2>Works Cited</h2>
+<p>Entity Interpolation - Gabriel Gambetta. (n.d.). https://www.gabrielgambetta.com/entity-interpolation.html</p>
+
+<p>Wikipedia contributors. (2023, October 11). Interpolation. In Wikipedia, The Free Encyclopedia. Retrieved 08:34, December 14, 2023, from https://en.wikipedia.org/w/index.php?title=Interpolation&amp;oldid=1179622966</p>
+
+<p>Randall, H. (2023, November 30). Baldur’s Gate 3 colossal new patch adds a playable epilogue set six months after the game ends with 3,589 new lines of… Pcgamer. https://www.pcgamer.com/baldurs-gate-3-colossal-new-patch-adds-a-playable-epilogue-set-six-months-after-the-game-ends-with-3589-new-lines-of-dialogue-two-new-difficulty-modes-and-im-running-out-of-headline-space/</p>
+
+<p>Rafiq, A., Abdul Kadir, T. A., &amp; Ihsan, S. N. (2020). Pathfinding algorithms in game development. IOP Conference Series: Materials Science and Engineering, 769, 012021. IOP Publishing. https://doi.org/10.1088/1757-899X/769/1/012021</p>
+
+<p>Lawande, S. R., Jasmine, G., Anbarasi, L. J., &amp; Izhar, L. I. (2022, May 28). A Systematic Review and Analysis of Intelligence-Based Pathfinding Algorithms in the Field of Video Games. Applied Sciences. https://doi.org/10.3390/app12115499</p>
+
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
